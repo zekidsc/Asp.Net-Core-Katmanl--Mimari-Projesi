@@ -1,0 +1,14 @@
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\ZEKİ DİŞÇİ\Source\Repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
